@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvite_Tai", "PartyInvite_Tai\PartyInvite_Tai.csproj", "{46B38043-A5B7-4023-976A-21CB9E9B6D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B38043-A5B7-4023-976A-21CB9E9B6D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B38043-A5B7-4023-976A-21CB9E9B6D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B38043-A5B7-4023-976A-21CB9E9B6D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B38043-A5B7-4023-976A-21CB9E9B6D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E2A7AF-3B17-47FF-A8A7-A10422D18721}
+	EndGlobalSection
+EndGlobal
